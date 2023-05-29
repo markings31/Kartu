@@ -1,0 +1,13 @@
+.main {
+    max-height: fit-content;
+    min-height: 20rem;
+    margin: 3rem;
+}
+
+.carousel {
+    display: inline;
+    float: left;
+    margin-left: 5rem;
+    width: 50%;
+    max-width: 40rem;
+}

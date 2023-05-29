@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mdb-react-ui-kit": "^4.2.0",
+    "react-loader-spinner": "^5.3.3"
+  }
+}

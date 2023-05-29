@@ -1,0 +1,28 @@
+.card {
+    display: inline;
+    width: 50rem;
+    float: left;
+    margin-left: 3rem;
+    background-color: #ffffff;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card h2, h5 {
+    margin-top: 0.5rem;
+}
+
+#right {
+    margin-right: 5rem;
+    float: right;
+}
+
+#center {
+    clear: left;
+    text-align: center;
+    width: 30rem;
+    height: 25rem;
+    margin-left: 42rem;
+    margin-top: 5rem;
+    padding: 10px;
+}
